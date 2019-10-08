@@ -1,0 +1,8 @@
+.button {
+  &--white {
+    box-shadow: 0 4px 16px rgba(49, 48, 50, 0.15);
+    border-radius: 20px;
+    background-color: $white;
+    color: $primary;
+  }
+}

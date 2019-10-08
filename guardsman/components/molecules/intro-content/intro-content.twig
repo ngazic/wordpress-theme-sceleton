@@ -1,0 +1,9 @@
+<article class="intro-content">
+  <h1 class="intro-title">{{title}}</h1>
+  {% include '@paragraph' with {"text": text  } %}
+
+  <div class="btn-wrapper">
+    {% include '@button-primary' with { "text": btnText, "link": btnUrl } %}
+    <span class="estimate-reading">{{estimate}}</span>
+  </div>
+</article>

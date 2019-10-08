@@ -1,0 +1,13 @@
+<div class="row-narrow">
+  <ul class="accordion pull push">
+  {% set counter = 0 %}
+    {% for item in items %}
+    {%  set counter = counter + 1  %}
+    <li>
+    {% include '@accordion-item'  with {  "id": counter , "headline": item.title, "content": item.content  }%}
+    </li>
+    {% endfor %}
+  </ul>
+</div>
+
+

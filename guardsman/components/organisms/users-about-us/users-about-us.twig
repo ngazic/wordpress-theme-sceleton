@@ -1,0 +1,16 @@
+<div class="row users-about-us-heading a">
+  <div class="col-md-offset-3 col-md-6 col-xs-12 col-xs-offset-0">
+    <div class="content">
+      {% include '@h2-with-underline' with { "text": headline.text }%}
+      {% include '@paragraph' with { "text": sublineText.text }%}
+    </div>
+  </div>
+</div>
+
+<div class="row users-about-us">
+  {% for item in items %}
+    {% include '@users-about-us-item' with { "title":  item.title,  "tag": item.tag, "text":  item.text, "src": item.src,  "alt":  item.alt  }  %}
+  {% endfor %}
+</div>
+
+

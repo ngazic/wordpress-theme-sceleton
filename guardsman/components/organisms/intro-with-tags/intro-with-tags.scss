@@ -1,0 +1,121 @@
+.intro {
+  position: relative;
+  background-image: url("../../img/slider-2.png");
+  background-repeat: no-repeat;
+  background-size: 108% 108%;
+  background-position: center;
+
+  &.glide {
+    position: relative;
+    max-height: 860px;
+
+    &.glide--swipeable {
+      cursor: default;
+    }
+
+    .glide__track {
+      max-height: 860px;
+      position: relative;
+    }
+
+    .glide__slides {
+      z-index: 2;
+    }
+
+    .glide__slide {
+      position: relative;
+      z-index: 11;
+      padding: 333px 0 200px;
+
+      @media #{$breakpoint-md-down} {
+        padding: 100px 0 200px;
+      }
+
+      @media #{$breakpoint-sm-down} {
+        padding: 50px 0 150px;
+      }
+    }
+
+    .arrow-left-slider,
+    .arrow-right-slider {
+      position: absolute;
+      top: 45%;
+      transform: translateY(-50%);
+      z-index: 2;
+
+      &:hover {
+        cursor: pointer;
+      }
+    }
+
+    .arrow-left-slider {
+      left: 0;
+    }
+
+    .arrow-right-slider {
+      right: 0;
+    }
+
+    .intro-content-tags {
+      position: relative;
+      z-index: 11;
+      padding-left: 241px;
+      padding-right: 60px;
+
+      @media #{$breakpoint-md-only} {
+        padding-left: 130px;
+        padding-right: 60px;
+      }
+
+      @media #{$breakpoint-sm-down} {
+        padding-left: 60px;
+        padding-right: 60px;
+        text-align: center;
+      }
+    }
+
+    .bullet-wrapper {
+      position: absolute;
+      height: 10px;
+      bottom: 102px;
+      text-align: center;
+      left: 50%;
+      transform: translateX(-50%);
+      z-index: 11;
+
+      @media #{$breakpoint-sm-down} {
+        bottom: 82px;
+      }
+    }
+
+    .share-icons {
+      position: absolute;
+      height: 16px;
+      bottom: 104px;
+      left: 40px;
+      z-index: 11;
+
+      @media #{$breakpoint-sm-down} {
+        left: 50%;
+        transform: translateX(-50%);
+      }
+    }
+  }
+
+  .mask-bottom {
+    bottom: -133px;
+  }
+
+  .intro-title {
+    max-width: 660px;
+  }
+
+  .btn-wrapper {
+    position: relative;
+    z-index: 11;
+  }
+
+  .mask-bg {
+    z-index: 1;
+  }
+}

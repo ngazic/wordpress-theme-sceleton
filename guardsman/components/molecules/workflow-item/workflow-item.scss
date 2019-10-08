@@ -1,0 +1,23 @@
+.workflow-item {
+  position: relative;
+  margin-top: 38px;
+  padding-top: 52px;
+  padding-left: 56px;
+  padding-right: 56px;
+  padding-bottom: 49px;
+  background-color: $white;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.05);
+  border-radius: 8px;
+  max-width: 364px;
+  max-height: 244px;
+
+  .list-item-icon {
+    position: absolute;
+    top:-38px;
+    left: 0;
+  }
+
+  .workflow-item-title {
+    margin-bottom: 20px;
+  }
+}

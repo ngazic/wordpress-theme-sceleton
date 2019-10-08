@@ -1,0 +1,14 @@
+<div class="cta">
+  <div class="mask-grey"></div>
+  <div class="mask-top"></div>
+  <div class="mask-bottom"></div>
+  <div class="row">
+    <div class="col-lg-6 col-lg-offset-3 col-md-offset-2 col-md-8 col-xs-12 col-xs-offset-0">
+      <div class="content">
+        {% include '@h2-with-underline' with { "text": headline.text }%}
+        {% include '@paragraph' with { "text": sublineText.text }%}
+        {% include '@buttons-combo' with { "text": text, "text": btnTransparent.text , "link": link}%}
+      </div>
+    </div>
+  </div>
+</div>

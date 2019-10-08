@@ -1,0 +1,39 @@
+{
+  "status": "ready",
+  "notes": "Blog header",
+  "context": {
+    "items": [
+      {
+        "text": "are you?"
+      },
+      {
+        "text": "workflow"
+      },
+      {
+        "text": "functions"
+      },
+      {
+        "text": "faq"
+      },
+      {
+        "text": "contact"
+      },
+      {
+        "text": "blog"
+      }
+    ],
+    "buttonText": "This is button",
+    "itemsBlog": [
+      {
+        "text": "20.10.2018"
+      },
+      {
+        "text": "Urban Pfeifer"
+      },
+      {
+        "text": "TECHNOLOGY"
+      }
+    ],
+    "title": "H1-Importance of automated testing"
+  }
+}

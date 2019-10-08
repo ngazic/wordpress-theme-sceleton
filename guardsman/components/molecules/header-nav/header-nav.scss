@@ -1,0 +1,40 @@
+.logo-wrap {
+  margin-right: 53px;
+  display: inline-block;
+
+  @media #{$breakpoint-md-down} {
+    display: block;
+    width: 120px;
+  }
+}
+
+.header-nav {
+  display: inline-block;
+
+  @media #{$breakpoint-md-down} {
+    display: block;
+  }
+
+  .header-nav-item {
+    &+.header-nav-item {
+      margin-left: 42px;
+
+      @media #{$breakpoint-md-down} {
+        margin-left: 0;
+        margin-top: 10px;
+      }
+    }
+
+    &--active {
+      &::after {
+        content: "";
+        position: absolute;
+        bottom: -7px;
+        width: 100%;
+        left: 0;
+        height: 3px;
+        border-bottom: 3px solid $primary;
+      }
+    }
+  }
+}

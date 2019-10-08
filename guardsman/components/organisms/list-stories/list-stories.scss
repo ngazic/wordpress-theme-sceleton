@@ -1,0 +1,60 @@
+.under-hood {
+  padding: 223px 0 160px;
+  position: relative;
+  background-image: url("../../img/underHood.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+
+  .h2 {
+    margin-bottom: 24px;
+    color: $white;
+
+    &--with-underline {
+      &::after {
+        z-index: 1;
+      }
+    }
+  }
+
+  .text {
+    color: $white;
+  }
+
+  .content {
+    text-align: center;
+    position: relative;
+    z-index: 11;
+
+    @media #{$breakpoint-md-down} {
+      text-align: center;
+    }
+  }
+}
+
+.list-stories {
+  .rounded-wrap {
+    margin-top: -80px;
+    position: relative;
+    border-radius: 16px 16px 0 0;
+    background-color: $white;
+    padding-top: 65px;
+    z-index: 11;
+  }
+
+  .story {
+    text-align: center;
+  }
+
+  img {
+    max-width: 81px;
+    min-height: 68px;
+    margin: 0 auto;
+  }
+
+  .list-text {
+    margin-bottom: 80px;
+    display: block;
+  }
+}

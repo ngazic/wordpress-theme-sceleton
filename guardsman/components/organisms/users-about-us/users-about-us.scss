@@ -1,0 +1,33 @@
+.users-about-us-heading {
+  margin-bottom: 77px;
+
+  .content {
+    text-align: center;
+    margin-left: 49.5px;
+    margin-right: 49.5px;
+    position: relative;
+    z-index: 11;
+
+    .h2--with-underline {
+      margin-bottom: 24px;
+    }
+  }
+}
+
+.users-about-us {
+  background-color: $white;
+
+  .users-about-us-item{
+
+    @media #{$breakpoint-lg-down} {
+      margin-bottom: 31px;
+    }
+  }
+
+  img {
+    width: 100%;
+    display: block;
+    max-width: 160px;
+    margin: 0 auto;
+  }
+}

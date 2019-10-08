@@ -1,0 +1,78 @@
+{
+  "status": "ready",
+  "notes": "Teaser img text.",
+  "context": {
+    "headline": {
+      "text": "Under the hood"
+    },
+
+    "sublineText": {
+      "text": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia, Nullam id dolor id nibh ultricies vehicula ut id elit."
+    },
+    "items": [{
+        "text": "stuff",
+        "srcL": "../../img/1440x10_12.png",
+        "srcM": "../../img/1024x10_12.png",
+        "srcS": "../../img/768x10_12.png",
+        "srcXS": "../../img/360x10_12.png",
+        "subtitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut ero labore et dolore."
+      },
+      {
+        "text": "stuff",
+        "srcL": "../../img/1440x10_12.png",
+        "srcM": "../../img/1024x10_12.png",
+        "srcS": "../../img/768x10_12.png",
+        "srcXS": "../../img/360x10_12.png",
+        "subtitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut ero labore et dolore."
+      },
+      {
+        "text": "stuff",
+        "srcL": "../../img/1440x10_12.png",
+        "srcM": "../../img/1024x10_12.png",
+        "srcS": "../../img/768x10_12.png",
+        "srcXS": "../../img/360x10_12.png",
+        "subtitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut ero labore et dolore."
+      },
+      {
+        "text": "stuff",
+        "srcL": "../../img/1440x10_12.png",
+        "srcM": "../../img/1024x10_12.png",
+        "srcS": "../../img/768x10_12.png",
+        "srcXS": "../../img/360x10_12.png",
+        "subtitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut ero labore et dolore."
+      },
+      {
+        "text": "stuff",
+        "srcL": "../../img/1440x10_12.png",
+        "srcM": "../../img/1024x10_12.png",
+        "srcS": "../../img/768x10_12.png",
+        "srcXS": "../../img/360x10_12.png",
+        "subtitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut ero labore et dolore."
+      },
+      {
+        "text": "stuff",
+        "srcL": "../../img/1440x10_12.png",
+        "srcM": "../../img/1024x10_12.png",
+        "srcS": "../../img/768x10_12.png",
+        "srcXS": "../../img/360x10_12.png",
+        "subtitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut ero labore et dolore."
+      },
+      {
+        "text": "stuff",
+        "srcL": "../../img/1440x10_12.png",
+        "srcM": "../../img/1024x10_12.png",
+        "srcS": "../../img/768x10_12.png",
+        "srcXS": "../../img/360x10_12.png",
+        "subtitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut ero labore et dolore."
+      },
+      {
+        "text": "stuff",
+        "srcL": "../../img/1440x10_12.png",
+        "srcM": "../../img/1024x10_12.png",
+        "srcS": "../../img/768x10_12.png",
+        "srcXS": "../../img/360x10_12.png",
+        "subtitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut ero labore et dolore."
+      }
+    ]
+  }
+}

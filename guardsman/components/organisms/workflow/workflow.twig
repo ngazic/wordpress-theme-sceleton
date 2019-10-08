@@ -1,0 +1,31 @@
+
+ <div class="row workflow-heading">
+    <div class="col-md-offset-3 col-md-6 col-xs-12 col-xs-offset-0">
+      <div class="content">
+        {% include '@h2-with-underline' with { "text": headline.text }%}
+          {% include '@spacer' with {"space": 41} %}
+        {% include '@paragraph' with { "text": sublineText.text }%}
+      </div>
+    </div>
+  </div>
+
+<div class="row workflow">
+  <div class="col-md-8 col-md-offset-2 col-xs-12 col-xs-offset-0">
+    <div class="row">
+      <div class="col-md-6 col-xs-12">
+        {% include '@workflow-item' with {"id":item1.id, "src": item1.src, "title": item1.title,"text": item1.text } %}
+        {% include '@workflow-item' with {"id":item2.id, "src": item2.src, "title": item2.title,"text": item2.text } %}
+      </div>
+
+      <div class="col-md-6 col-xs-12">
+          {% include '@workflow-item' with {"id":item3.id, "src": item3.src, "title": item3.title,"text": item3.text } %}
+          {% include '@workflow-item' with {"id":item4.id, "src": item4.src, "title": item4.title,"text": item4.text } %}
+      </div>
+    </div>
+  </div>
+</div>
+<div class="row workflow-button justify-content-center">
+  {% include '@button-primary' with { "text": button.text, "link": button.link } %}
+</div>
+
+

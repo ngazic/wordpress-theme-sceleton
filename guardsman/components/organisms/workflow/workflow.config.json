@@ -1,0 +1,40 @@
+{
+  "status": "ready",
+  "notes": "This is accordion  ",
+  "context": {
+    "headline": {
+      "text": "Workflow"
+    },
+    "sublineText": {
+      "text": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia, Nullam id dolor id nibh ultricies vehicula ut id elit."
+    },
+    "item1": {
+      "id": "1",
+      "src": "../../img/workflow-icon.png",
+      "title": "1. title",
+      "text": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia, Nullam id dolor id nibh ultricies vehicula ut id elit."
+    },
+    "item2": {
+      "id": "2",
+      "src": "../../img/workflow-icon.png",
+      "title": "2. title",
+      "text": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia, Nullam id dolor id nibh ultricies vehicula ut id elit."
+    },
+    "item3": {
+      "id": "3",
+      "src": "../../img/workflow-icon.png",
+      "title": "3. title",
+      "text": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia, Nullam id dolor id nibh ultricies vehicula ut id elit."
+    },
+    "item4": {
+      "id": "4",
+      "src": "../../img/workflow-icon.png",
+      "title": "4. title",
+      "text": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia, Nullam id dolor id nibh ultricies vehicula ut id elit."
+    },
+    "button": {
+      "text": "GET EARLY ACCESS",
+      "link": "#"
+    }
+  }
+}

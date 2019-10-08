@@ -1,0 +1,68 @@
+.stage {
+  background-image: url("../../img/underHood.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  padding-bottom: 9%;
+  overflow: hidden;
+
+  @media #{$breakpoint-xs-only} {
+    top: -5px;
+    text-align: center;
+  }
+
+  .logo-wrap {
+    @media #{$breakpoint-xs-only} {
+      margin-right: 0;
+    }
+  }
+
+  .mask-bottom {
+    bottom: -113px;
+  }
+
+  .push,
+  .pull {
+    @media #{$breakpoint-sm-only} {
+      margin: 0;
+    }
+
+    @media #{$breakpoint-xs-only} {
+      margin: 0;
+    }
+  }
+
+  .headline {
+    margin-top: 79px;
+    position: relative;
+    z-index: 12;
+
+    .h1 {
+      @media #{$breakpoint-md-only} {
+        font-size: 60px;
+        line-height: 65px;
+      }
+
+      @media #{$breakpoint-sm-only} {
+        font-size: 60px;
+        line-height: 65px;
+      }
+    }
+
+    @media #{$breakpoint-md-only} {
+      margin-top: 59px;
+      padding-bottom: 59px;
+    }
+    @media #{$breakpoint-sm-only} {
+      margin-top: 49px;
+      padding-bottom: 49px;
+      text-align: center;
+    }
+
+    @media #{$breakpoint-xs-only} {
+      margin-top: 49px;
+      padding-top: 39px;
+    }
+  }
+}

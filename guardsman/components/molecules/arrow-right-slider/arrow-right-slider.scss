@@ -1,0 +1,22 @@
+.arrow-right-slider {
+  display: block;
+  position: relative;
+  box-shadow: 8px 0 16px rgba(0, 0, 0, 0.25);
+  border-radius: 16px 0 0 16px;
+  background-color: #fff !important;
+  width: 42px;
+  height: 62px;
+
+  &::after {
+    position: absolute;
+    content: "";
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='24' viewBox='0 0 12 24'%3E%3Cg%3E%3Cg%3E%3Cpath fill='none' stroke='%2300a4a6' stroke-miterlimit='50' d='M11.5 23.127v0L.186 11.814v0L11.5.5v0'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 12px;
+    height: 24px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) rotate(180deg);
+  }
+}

@@ -1,0 +1,8 @@
+<ul class="tag-list">
+  {% for item in items %}
+    {% set text = item.text %}
+      {% include '@tag-list-item' with {"text": text } %}
+  {% endfor %}
+</ul>
+
+

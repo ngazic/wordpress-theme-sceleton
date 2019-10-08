@@ -1,0 +1,66 @@
+.header {
+  background-color: green;
+}
+
+.content {
+  background-color: blue;
+}
+
+.footer {
+  background-color: red;
+}
+
+.mthit-menu li {
+  display: inline-block;
+  padding: 8px 20px;
+  background-color: black;
+  user-select: pointer;
+}
+
+.mthit-menu li a {
+  text-decoration: none;
+  color: white;
+}
+
+.mthit-menu-footer li {
+  display: inline-block;
+  padding: 3px 20px;
+  background-color: aliceblue;
+  user-select: pointer;
+}
+
+.mthit-menu-footer li a {
+  text-decoration: none;
+  color: rgb(17, 70, 12);
+}
+
+.front-page {
+  background-color: yellow;
+}
+
+.usual-page {
+  background-color: green;
+}
+
+.content-partial {
+  border-radius: 4px;
+  border: solid black 4px;
+  background-color: beige;
+}
+.comments {
+  border: dashed black 10px;
+  background-color: beige;
+}
+
+.blog-item {
+  margin: 20px;
+  background-color: white;
+}
+
+.arrow {
+  min-height: 50px;
+  min-width: 100px;
+  background-color: greenyellow;
+  margin: 10px;
+  display: inline-block;
+}

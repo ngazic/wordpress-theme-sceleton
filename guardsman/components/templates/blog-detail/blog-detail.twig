@@ -1,0 +1,71 @@
+{% block body %}
+<div class="wrapper">
+  {% include '@blog-header' with { "text":itemsBlog, "items":itemsHeader, "buttonText": buttonText} %}
+
+  {% include '@spacer' with { "space": 28 } %}
+
+  <div class="row-narrow">
+    <div class="pull push">
+      {% include '@paragraph' with { "text": paragraph.textParagraph } %}
+      {% include '@spacer' with { "space": 20 } %}
+      {% include '@paragraph-link' with { "text": paragraph.textParagraphLink, "link": linkPagragraph } %}
+      {% include '@spacer' with { "space": 54 } %}
+      {% include '@h2-blog-primary' with { "text": paragraph.textBlogPrimary } %}
+      {% include '@spacer' with { "space": 67 } %}
+      {% include '@h2-blog-headline' with { "text": headline.textBlogHeadline } %}
+      {% include '@spacer' with { "space": 23 } %}
+      {% include '@paragraph-link-underline' with { "text": paragraph.textParagraphUnderline, "link":paragraph.linkPagragraph } %}
+      {% include '@spacer' with { "space": 20 } %}
+      {% include '@paragraph' with { "text": paragraph.textParagraph2, "link": paragraph.linkPagragraph } %}
+      {% include '@spacer' with { "space": 60 } %}
+      {% include '@h2-blog-primary-bg' with { "text": textBlogPrimaryBg } %}
+      {% include '@spacer' with { "space": 87 } %}
+      {% include '@quote' with { "text1": quoteText1, "text2": quoteText2, "quote": quoteAuthor } %}
+      {% include '@spacer' with { "space": 56 } %}
+    </div>
+
+    <div class="blog-picture-wrap">
+      {% include '@blog-picture' with { "srcL": blogPicture.srcL, "srcM": blogPicture.srcM, "srcS": blogPicture.srcS,
+      "srcXS": blogPicture.srcXS, "caption": blogPicture.caption } %}
+    </div>
+    {% include '@spacer' with { "space": 62 } %}
+    <div class="pull push">
+      {% include '@h2-blog-headline' with { "text": headline.h3Headline } %}
+      {% include '@spacer' with { "space": 30 } %}
+      {% include '@paragraph' with { "text": paragraph.textParagraph3, "text": paragraph.linkPagragraph } %}
+      {% include '@spacer' with { "space": 20 } %}
+      {% include '@paragraph' with { "text": paragraph.textParagraph4, "link": paragraph.linkPagragraph } %}
+      {% include '@spacer' with { "space": 150 } %}
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-xs-12 headline-wrap">
+      {% include '@h2-with-underline' with { "text": titleArticle.titleUnderline}%}
+    </div>
+    {% include '@spacer' with { "space": 40 } %}
+    <div class="col-lg-4 col-md-12 col-xs-12">
+      {% include '@article-post' with { "srcL": contentArticle1.srcL, "srcM": contentArticle1.srcM, "srcS":
+      contentArticle1.srcS, "srcXS": contentArticle1.srcXS, "text": contentArticle1.headline, "paragraph":
+      contentArticle1.paragraph, "items": contentArticle1.items, "linkText": contentArticle1.linkText,
+      "url":contentArticle1.url}%}
+    </div>
+    <div class="col-lg-4 col-md-12 col-xs-12">
+      {% include '@article-post' with { "srcL": contentArticle2.srcL, "srcM": contentArticle2.srcM, "srcS":
+      contentArticle2.srcS, "srcXS": contentArticle2.srcXS, "text": contentArticle2.headline, "paragraph":
+      contentArticle2.paragraph, "items": contentArticle2.items, "linkText": contentArticle2.linkText,
+      "url":contentArticle2.url}%}
+    </div>
+    <div class="col-lg-4 col-md-12 col-xs-12">
+      {% include '@article-post' with { "srcL": contentArticle3.srcL, "srcM": contentArticle3.srcM, "srcS":
+      contentArticle3.srcS, "srcXS": contentArticle3.srcXS, "text": contentArticle3.headline, "paragraph":
+      contentArticle3.paragraph, "items": contentArticle3.items, "linkText": contentArticle3.linkText,
+      "url":contentArticle3.url }%}
+    </div>
+    {% include '@spacer' with { "space": 161 } %}
+  </div>
+  {% include '@footer' with { "title":footerTitle, "subtitle":footerSubtitle, "inputText":footerInputText,
+  "inputLink":footerInputLink, "inputPlaceholderText":footerInputPlaceholderText,"checkboxText":footerCheckboxText } %}
+  {% include '@copyright' with { "items": itemsCopyright } %}
+</div>
+{% endblock %}

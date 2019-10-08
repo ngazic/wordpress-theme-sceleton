@@ -1,0 +1,54 @@
+.intro-content {
+  .intro-title {
+    display: inline-block;
+    position: relative;
+    color: $white;
+    font-family: $Freight-Pro;
+    margin-bottom: 54px;
+    font-size: 80px;
+    line-height: 88px;
+
+    @media #{$breakpoint-md-only} {
+      font-size: 52px;
+      line-height: 60px;
+    }
+
+    @media #{$breakpoint-sm-only} {
+      font-size: 42px;
+      line-height: 40px;
+    }
+
+    @media #{$breakpoint-xs-only} {
+      font-size: 32px;
+      line-height: 30px;
+    }
+
+    &::after {
+      content: "";
+      position: absolute;
+      border-bottom: 4px solid $primary;
+      bottom:5px;
+      left: 0;
+      right: 0;
+      z-index:-1;
+
+      @media #{$breakpoint-md-down} {
+        border-bottom: 3px solid $primary;
+        bottom: 0px;
+      }
+    }
+  }
+
+  .btn-wrapper {
+    line-height: 0;
+    font-size: 0;
+  }
+
+  .estimate-reading {
+    color: $white;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 26px;
+    margin-left: 15px;
+  }
+}

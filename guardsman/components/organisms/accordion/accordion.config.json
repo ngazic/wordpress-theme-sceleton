@@ -1,0 +1,20 @@
+{
+  "status": "ready",
+  "notes": "This is accordion  ",
+  "context": {
+    "items": [
+      {
+        "headline": "How do you use this application?",
+        "content": "Cras mattis consectetur purus sit amet fermentum. Donec id elit non mi porta gravida at eget metus. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+      },
+      {
+        "headline": "How do you use this application?",
+        "content": "Cras mattis consectetur purus sit amet fermentum. Donec id elit non mi porta gravida at eget metus. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+      },
+      {
+        "headline": "How do you use this application?",
+        "content": "Cras mattis consectetur purus sit amet fermentum. Donec id elit non mi porta gravida at eget metus. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+      }
+    ]
+  }
+}

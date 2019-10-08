@@ -1,0 +1,20 @@
+{
+  "status": "ready",
+  "notes": "This is a tag list with font size 14 px and line height 22px ",
+  "context": {
+    "items": [
+      {
+        "text": "ALL"
+      },
+      {
+        "text": "TECHNOLOGY"
+      },
+      {
+        "text": "DEVELOPMENT"
+      },
+      {
+        "text": "CODE"
+      }
+    ]
+  }
+}

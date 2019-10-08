@@ -1,0 +1,16 @@
+.h4 {
+  &--with-underline {
+    position: relative;
+    display: inline-block;
+
+    &::after {
+        content: "";
+        position: absolute;
+        border-bottom: 2px solid $primary;
+        bottom:2px;
+        left: 0;
+        right: 0;
+        z-index:-1;
+    }
+  }
+}

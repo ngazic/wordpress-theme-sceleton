@@ -1,0 +1,15 @@
+.button {
+  display: inline-block;
+  min-width: 164px;
+  font-size: 14px;
+  line-height: 12px;
+  text-transform: uppercase;
+  background-color: $primary;
+  box-shadow: 0 4px 16px rgba(49, 48, 50, 0.15);
+  border-radius: 20px;
+  text-align: center;
+  padding: 13px 0 13px 0;
+  border: 1px solid $primary;
+  color: $white;
+  text-decoration: none;
+}

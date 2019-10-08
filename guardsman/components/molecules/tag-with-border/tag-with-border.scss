@@ -1,0 +1,44 @@
+.tag-with-border {
+  list-style-type: none;
+  display: inline-block;
+
+  li {
+    cursor: pointer;
+    border-radius: 20px;
+    border: 1px solid $border-color;
+    padding: 8px 17px 11px 46px;
+    margin-right: 24px;
+    color: $grey;
+    font-size: 14px;
+    height: 40px;
+    text-transform: uppercase;
+
+    @media #{$breakpoint-md-down} {
+      margin-bottom: 10px;
+    }
+
+    &:last-of-type {
+      margin-right: 0;
+    }
+
+    &::before {
+      content: "";
+      position: absolute;
+      border-radius: 50px;
+      border: 1px solid $border-color;
+      background-color: $white;
+      width: 20px;
+      height: 20px;
+      left: 10px;
+    }
+
+    &:hover {
+      color: $primary;
+      border-color: $primary;
+
+      &::before {
+        background-color: $primary;
+      }
+    }
+  }
+}

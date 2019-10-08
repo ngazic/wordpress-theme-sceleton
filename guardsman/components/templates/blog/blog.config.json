@@ -1,0 +1,234 @@
+{
+  "status": "ready",
+  "notes": "This is notes form first template page",
+  "context": {
+    "headerItems": [
+      {
+        "text": "are you?"
+      },
+      {
+        "text": "workflow"
+      },
+      {
+        "text": "functions"
+      },
+      {
+        "text": "faq"
+      },
+      {
+        "text": "contact"
+      },
+      {
+        "text": "blog"
+      }
+    ],
+    "headerButtonText": "GET EARLY ACCESS",
+    "stageText": "Tech /Code /Dev",
+    "tagWithBorderItems": [
+      {
+        "text": "ALL"
+      },
+      {
+        "text": "TECHNOLOGY"
+      },
+      {
+        "text": "DEVELOPMENT"
+      },
+      {
+        "text": "CODE"
+      }
+    ],
+    "selectItems": [
+      {
+        "text": "newest",
+        "value": "first"
+      },
+      {
+        "text": "Label 2",
+        "value": "second"
+      },
+      {
+        "text": "Label 3",
+        "value": "third"
+      }
+    ],
+    "teaserImgSrcL": "../../img/1440x3_2.png",
+    "teaserImgSrcM": "../../img/1024x3_2.png",
+    "teaserImgSrcS": "../../img/768x3_2.png",
+    "teaserImgSrcXS": "../../img/360x3_2.png",
+    "teaserImgItems": [
+      {
+        "text": "20.10.2018"
+      },
+      {
+        "text": "Urban Pfeifer"
+      },
+      {
+        "text": "TECHNOLOGY"
+      }
+    ],
+    "postsItems": [
+      {
+        "srcL": "../../img/1440x3_2.png",
+        "srcM": "../../img/1024x3_2.png",
+        "srcS": "../../img/768x3_2.png",
+        "srcXS": "../../img/360x3_2.png",
+        "headline": "How do you use this application?",
+        "content": "Cras mattis consectetur purus sit amet fermentum. Donec id elit non mi porta gravida at eget metus. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+        "tagsItems": [
+          {
+            "text": "20.10.2018"
+          },
+          {
+            "text": "Urban Pfeifer"
+          },
+          {
+            "text": "TECHNOLOGY"
+          }
+        ],
+        "text": "Importance of automated testing",
+        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut ero labore et dolore.",
+        "linkText": " read me ",
+        "url": " # "
+      },
+      {
+        "srcL": "../../img/1440x3_2.png",
+        "srcM": "../../img/1024x3_2.png",
+        "srcS": "../../img/768x3_2.png",
+        "srcXS": "../../img/360x3_2.png",
+        "headline": "How do you use this application?",
+        "content": "Cras mattis consectetur purus sit amet fermentum. Donec id elit non mi porta gravida at eget metus. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+        "tagsItems": [
+          {
+            "text": "20.10.2018"
+          },
+          {
+            "text": "Urban Pfeifer"
+          },
+          {
+            "text": "TECHNOLOGY"
+          }
+        ],
+        "text": "Importance of automated testing",
+        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut ero labore et dolore.",
+        "linkText": " read me ",
+        "url": " # "
+      },
+      {
+        "srcL": "../../img/1440x3_2.png",
+        "srcM": "../../img/1024x3_2.png",
+        "srcS": "../../img/768x3_2.png",
+        "srcXS": "../../img/360x3_2.png",
+        "headline": "How do you use this application?",
+        "content": "Cras mattis consectetur purus sit amet fermentum. Donec id elit non mi porta gravida at eget metus. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+        "tagsItems": [
+          {
+            "text": "20.10.2018"
+          },
+          {
+            "text": "Urban Pfeifer"
+          },
+          {
+            "text": "TECHNOLOGY"
+          }
+        ],
+        "text": "Importance of automated testing",
+        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut ero labore et dolore.",
+        "linkText": " read me ",
+        "url": " # "
+      },
+      {
+        "srcL": "../../img/1440x3_2.png",
+        "srcM": "../../img/1024x3_2.png",
+        "srcS": "../../img/768x3_2.png",
+        "srcXS": "../../img/360x3_2.png",
+        "headline": "How do you use this application?",
+        "content": "Cras mattis consectetur purus sit amet fermentum. Donec id elit non mi porta gravida at eget metus. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+        "tagsItems": [
+          {
+            "text": "20.10.2018"
+          },
+          {
+            "text": "Urban Pfeifer"
+          },
+          {
+            "text": "TECHNOLOGY"
+          }
+        ],
+        "text": "Importance of automated testing",
+        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut ero labore et dolore.",
+        "linkText": " read me ",
+        "url": " # "
+      },
+      {
+        "srcL": "../../img/1440x3_2.png",
+        "srcM": "../../img/1024x3_2.png",
+        "srcS": "../../img/768x3_2.png",
+        "srcXS": "../../img/360x3_2.png",
+        "headline": "How do you use this application?",
+        "content": "Cras mattis consectetur purus sit amet fermentum. Donec id elit non mi porta gravida at eget metus. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+        "tagsItems": [
+          {
+            "text": "20.10.2018"
+          },
+          {
+            "text": "Urban Pfeifer"
+          },
+          {
+            "text": "TECHNOLOGY"
+          }
+        ],
+        "text": "Importance of automated testing",
+        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut ero labore et dolore.",
+        "linkText": " read me ",
+        "url": " # "
+      },
+      {
+        "srcL": "../../img/1440x3_2.png",
+        "srcM": "../../img/1024x3_2.png",
+        "srcS": "../../img/768x3_2.png",
+        "srcXS": "../../img/360x3_2.png",
+        "headline": "How do you use this application?",
+        "content": "Cras mattis consectetur purus sit amet fermentum. Donec id elit non mi porta gravida at eget metus. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+        "tagsItems": [
+          {
+            "text": "20.10.2018"
+          },
+          {
+            "text": "Urban Pfeifer"
+          },
+          {
+            "text": "TECHNOLOGY"
+          }
+        ],
+        "text": "Importance of automated testing",
+        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut ero labore et dolore.",
+        "linkText": " read me ",
+        "url": " # "
+      }
+    ],
+    "postsLoadMoreText": "LOAD MORE",
+    "postsLoadMoreUrl": "#",
+    "teaserImgTitle": "Importance of automated testing",
+    "teaserImgSubtitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut ero labore et dolore.",
+    "teaserImgButtonTitle": "READ",
+    "teaserImgButtonUrl": "#",
+    "footerTitle": "Get early access",
+    "footerSubtitle": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia, Nullam id dolor id nibh ultricies vehicula ut id elit.",
+    "footerInputText": "get early access",
+    "footerInputLink": "#",
+    "footerInputPlaceholderText": "exp: john.doe@mail.com",
+    "footerCheckboxText": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia, Nullam id dolor id nibh ultricies vehicula ut id elit.",
+    "itemsCopyright": [
+      {
+        "text": "Vse pravice pridržane. PM, poslovni mediji d.o.o. 2018"
+      },
+      {
+        "text": "Cookies"
+      },
+      {
+        "text": "Terms and agreement"
+      }
+    ]
+  }
+}

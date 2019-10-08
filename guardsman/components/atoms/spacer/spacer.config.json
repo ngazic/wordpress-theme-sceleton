@@ -1,0 +1,7 @@
+{
+  "status":"ready",
+  "notes": "This is spacer between components",
+  "context": {
+    "space": 80
+  }
+}

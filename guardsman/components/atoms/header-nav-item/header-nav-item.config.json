@@ -1,0 +1,8 @@
+{
+  "status": "ready",
+  "notes": "Header nav item, will be using in header navigation. Its not visible, because its white colored.",
+  "context": {
+    "link": "#",
+    "text": "are you?"
+  }
+}

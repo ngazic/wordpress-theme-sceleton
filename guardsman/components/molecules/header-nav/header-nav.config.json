@@ -1,0 +1,32 @@
+{
+  "status": "ready",
+  "notes": "This is header navigation list ",
+  "context": {
+    "items": [
+      {
+        "text": "are you?",
+        "link": "#"
+      },
+      {
+        "text": "workflow",
+        "link": "#"
+      },
+      {
+        "text": "functions",
+        "link": "#"
+      },
+      {
+        "text": "faq",
+        "link": "#"
+      },
+      {
+        "text": "contact",
+        "link": "#"
+      },
+      {
+        "text": "blog",
+        "link": "#"
+      }
+    ]
+  }
+}

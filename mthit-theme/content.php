@@ -1,0 +1,1 @@
+<p class="content-partial">This is only content template partial</p>

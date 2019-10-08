@@ -1,0 +1,12 @@
+<div class="logo-wrap">
+  {% include '@logo' with {"link": logo } %}
+</div>
+
+<ul class="header-nav">
+  {% for item in items %}
+    {% set text = item.title %}
+    {% include '@header-nav-item' with {"text": text, "link": item.link } %}
+  {% endfor %}
+</ul>
+
+

@@ -1,0 +1,10 @@
+.list-item-icon {
+  width: 64px;
+  height: 64px;
+  vertical-align: top;
+
+  @media #{$breakpoint-md-down} {
+    width: 45px;
+    height: 45px;
+  }
+}

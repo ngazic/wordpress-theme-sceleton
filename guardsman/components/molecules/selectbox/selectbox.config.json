@@ -1,0 +1,20 @@
+{
+  "status": "ready",
+  "notes": "This is a select list",
+  "context": {
+    "items": [
+      {
+        "text": "newest",
+        "value": "first"
+      },
+      {
+        "text": "Label 2",
+        "value": "second"
+      },
+      {
+        "text": "Label 3",
+        "value": "third"
+      }
+    ]
+  }
+}

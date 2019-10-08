@@ -1,0 +1,12 @@
+.h1 {
+	&--post-title {
+		font-size: 64px;
+		line-height: 72px;
+    color: $black-02;
+
+    @media #{$breakpoint-md-down} {
+      font-size: 44px;
+      line-height: 52px;
+    }
+	}
+}

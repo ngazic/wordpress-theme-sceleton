@@ -1,0 +1,6 @@
+<ul class="tag-with-border">
+    {% for item in items %}
+      {% set text = item.text %}
+      {% include './atoms/tag-list-item/tag-list-item.twig' with {"text": text } %}
+  {% endfor %}
+</ul>

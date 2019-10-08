@@ -1,0 +1,18 @@
+{
+  "status": "ready",
+  "notes": "This is block title molecule",
+  "context": {
+    "items": [
+      {
+        "text": "20.10.2018"
+      },
+      {
+        "text": "Urban Pfeifer"
+      },
+      {
+        "text": "TECHNOLOGY"
+      }
+    ],
+    "title": "H1-Importance of automated testing"
+  }
+}

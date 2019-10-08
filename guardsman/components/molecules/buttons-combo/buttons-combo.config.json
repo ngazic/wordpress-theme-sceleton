@@ -1,0 +1,11 @@
+{
+  "status": "ready",
+  "notes": "Button Primary",
+  "context": {
+    "text": "FAQ",
+    "link": "#",
+    "btnTransparent": {
+      "text": "CONTACT US"
+    }
+  }
+}

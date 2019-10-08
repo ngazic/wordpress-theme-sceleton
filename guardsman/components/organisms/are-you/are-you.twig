@@ -1,0 +1,18 @@
+<div class="are-you">
+  <div class="headline">
+    {% include '@h2-with-underline' with { "text": headline.text} %}
+  </div>
+  {% include '@buttons-tags' with { "text": item.text, "class": extraClass} %}
+  <div class="row">
+    <div class="content-wrap">
+      <div class="flex-container">
+        <div class="col-md-6 col-xs-12 col-xs-12--col-extra">
+        </div>
+        <div class="col-md-6 col-xs-12 text-center-mobile">
+          {% include '@list-icon-text' with {"text": text , "src": item.src  %}
+          {% include '@button-primary' with {"text": text, "src": link %}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

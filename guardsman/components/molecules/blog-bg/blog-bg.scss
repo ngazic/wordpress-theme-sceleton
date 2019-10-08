@@ -1,0 +1,13 @@
+.blog-bg {
+  background-image: url('../../img/blog-bg.png');
+  background-position: center top;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  width: 100%;
+  height: 810px;
+
+  @media #{$breakpoint-xs-only} {
+    text-align: center;
+  }
+}

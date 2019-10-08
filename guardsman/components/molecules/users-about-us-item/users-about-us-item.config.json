@@ -1,0 +1,11 @@
+{
+  "status": "ready",
+  "notes": "This is accordion item ",
+  "context": {
+    "title": "name surname",
+    "tag": "co-founder & cto",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis risus eget urna mollis ornare vel eu leo.",
+    "src": "../../img/item-logo.png",
+    "alt": ""
+  }
+}

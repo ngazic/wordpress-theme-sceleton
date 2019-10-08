@@ -1,0 +1,6 @@
+<ul class="buttons-tags">
+  {% for item in items %}
+    {% set text = item.text %}
+      {% include '@tag-list-item' with {"text": text, "class":item.extraClass } %}
+  {% endfor %}
+</ul>

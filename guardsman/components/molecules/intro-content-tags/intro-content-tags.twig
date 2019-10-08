@@ -1,0 +1,8 @@
+<article class="intro-content-tags">
+  {% include '@tag-list' %}
+  <h1 class="intro-title">{{title}}</h1>
+  <div class="btn-wrapper">
+    {% include '@button-primary' with { "text": btnText, "link": btnUrl } %}
+    <span class="estimate-reading">{{estimate}}</span>
+  </div>
+</article>

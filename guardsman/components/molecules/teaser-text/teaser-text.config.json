@@ -1,0 +1,21 @@
+{
+  "status": "ready",
+  "notes": "This is a teaser text",
+  "context": {
+    "items": [
+      {
+        "text": "20.10.2018"
+      },
+      {
+        "text": "Urban Pfeifer"
+      },
+      {
+        "text": "TECHNOLOGY"
+      }
+    ],
+    "title": "Importance of automated testing",
+    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut ero labore et dolore.",
+    "buttontitle": "READ",
+    "buttonurl": "#"
+  }
+}

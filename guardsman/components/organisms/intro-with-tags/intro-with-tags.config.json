@@ -1,0 +1,80 @@
+{
+  "status": "ready",
+  "notes": "This is notes for intro ",
+  "context": {
+    "items": [
+      {
+        "text": "are you?"
+      },
+      {
+        "text": "workflow"
+      },
+      {
+        "text": "functions"
+      },
+      {
+        "text": "faq"
+      },
+      {
+        "text": "contact"
+      },
+      {
+        "text": "blog"
+      }
+    ],
+    "buttonText": "GET EARLY ACCESS",
+    "slides": [
+      {
+        "items": [
+          {
+            "text": "20.10.2018"
+          },
+          {
+            "text": "Urban Pfeifer"
+          },
+          {
+            "text": "TECHNOLOGY"
+          }
+        ],
+        "title": "Importance of automated testing",
+        "btnText": "READ MORE",
+        "btnUrl": "##",
+        "estimate": "5 min read"
+      },
+      {
+        "items": [
+          {
+            "text": "20.10.2018"
+          },
+          {
+            "text": "Urban Pfeifer1"
+          },
+          {
+            "text": "TECHNOLOGY"
+          }
+        ],
+        "title": "Importance of automated testing1",
+        "btnText": "READ MORE",
+        "btnUrl": "##",
+        "estimate": "10 min read"
+      },
+      {
+        "items": [
+          {
+            "text": "20.10.2018"
+          },
+          {
+            "text": "Urban Pfeifer2"
+          },
+          {
+            "text": "TECHNOLOGY2"
+          }
+        ],
+        "title": "Importance of automated testing2",
+        "btnText": "READ MORE",
+        "btnUrl": "##",
+        "estimate": "15 min read"
+      }
+    ]
+  }
+}

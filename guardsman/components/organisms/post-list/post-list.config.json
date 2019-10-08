@@ -1,0 +1,146 @@
+{
+  "status": "ready",
+  "notes": "This is list of posts",
+  "context": {
+    "items": [
+      {
+        "srcL": "../../img/1440x3_2.png",
+        "srcM": "../../img/1024x3_2.png",
+        "srcS": "../../img/768x3_2.png",
+        "srcXS": "../../img/360x3_2.png",
+        "headline": "How do you use this application?",
+        "content": "Cras mattis consectetur purus sit amet fermentum. Donec id elit non mi porta gravida at eget metus. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+        "tagsItems": [
+          {
+            "text": "20.10.2018"
+          },
+          {
+            "text": "Urban Pfeifer"
+          },
+          {
+            "text": "TECHNOLOGY"
+          }
+        ],
+        "text": "Importance of automated testing",
+        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut ero labore et dolore.",
+        "linkText": " read me ",
+        "url": " # "
+      },
+      {
+        "srcL": "../../img/1440x3_2.png",
+        "srcM": "../../img/1024x3_2.png",
+        "srcS": "../../img/768x3_2.png",
+        "srcXS": "../../img/360x3_2.png",
+        "headline": "How do you use this application?",
+        "content": "Cras mattis consectetur purus sit amet fermentum. Donec id elit non mi porta gravida at eget metus. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+        "tagsItems": [
+          {
+            "text": "20.10.2018"
+          },
+          {
+            "text": "Urban Pfeifer"
+          },
+          {
+            "text": "TECHNOLOGY"
+          }
+        ],
+        "text": "Importance of automated testing",
+        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut ero labore et dolore.",
+        "linkText": " read me ",
+        "url": " # "
+      },
+      {
+        "srcL": "../../img/1440x3_2.png",
+        "srcM": "../../img/1024x3_2.png",
+        "srcS": "../../img/768x3_2.png",
+        "srcXS": "../../img/360x3_2.png",
+        "headline": "How do you use this application?",
+        "content": "Cras mattis consectetur purus sit amet fermentum. Donec id elit non mi porta gravida at eget metus. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+        "tagsItems": [
+          {
+            "text": "20.10.2018"
+          },
+          {
+            "text": "Urban Pfeifer"
+          },
+          {
+            "text": "TECHNOLOGY"
+          }
+        ],
+        "text": "Importance of automated testing",
+        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut ero labore et dolore.",
+        "linkText": " read me ",
+        "url": " # "
+      },
+      {
+        "srcL": "../../img/1440x3_2.png",
+        "srcM": "../../img/1024x3_2.png",
+        "srcS": "../../img/768x3_2.png",
+        "srcXS": "../../img/360x3_2.png",
+        "headline": "How do you use this application?",
+        "content": "Cras mattis consectetur purus sit amet fermentum. Donec id elit non mi porta gravida at eget metus. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+        "tagsItems": [
+          {
+            "text": "20.10.2018"
+          },
+          {
+            "text": "Urban Pfeifer"
+          },
+          {
+            "text": "TECHNOLOGY"
+          }
+        ],
+        "text": "Importance of automated testing",
+        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut ero labore et dolore.",
+        "linkText": " read me ",
+        "url": " # "
+      },
+      {
+        "srcL": "../../img/1440x3_2.png",
+        "srcM": "../../img/1024x3_2.png",
+        "srcS": "../../img/768x3_2.png",
+        "srcXS": "../../img/360x3_2.png",
+        "headline": "How do you use this application?",
+        "content": "Cras mattis consectetur purus sit amet fermentum. Donec id elit non mi porta gravida at eget metus. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+        "tagsItems": [
+          {
+            "text": "20.10.2018"
+          },
+          {
+            "text": "Urban Pfeifer"
+          },
+          {
+            "text": "TECHNOLOGY"
+          }
+        ],
+        "text": "Importance of automated testing",
+        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut ero labore et dolore.",
+        "linkText": " read me ",
+        "url": " # "
+      },
+      {
+        "srcL": "../../img/1440x3_2.png",
+        "srcM": "../../img/1024x3_2.png",
+        "srcS": "../../img/768x3_2.png",
+        "srcXS": "../../img/360x3_2.png",
+        "headline": "How do you use this application?",
+        "content": "Cras mattis consectetur purus sit amet fermentum. Donec id elit non mi porta gravida at eget metus. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+        "tagsItems": [
+          {
+            "text": "20.10.2018"
+          },
+          {
+            "text": "Urban Pfeifer"
+          },
+          {
+            "text": "TECHNOLOGY"
+          }
+        ],
+        "text": "Importance of automated testing",
+        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut ero labore et dolore.",
+        "linkText": " read me ",
+        "url": " # "
+      }
+    ]
+  }
+}

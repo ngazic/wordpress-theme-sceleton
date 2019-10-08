@@ -1,0 +1,44 @@
+{
+  "status": "ready",
+  "notes": "Are you section",
+  "context": {
+    "headline": {
+      "text": "Are you?"
+    },
+    "src": "../../img/are-you-pic.png",
+    "items": [
+      {
+        "text": "DEVELOPER",
+        "extraClass": ""
+      },
+      {
+        "text": "CHIEF TECH OFFICER",
+        "extraClass": "tag-list-item--primary"
+      },
+      {
+        "text": "THIRD OPTION",
+        "extraClass": ""
+      }
+    ],
+    "list": [
+      {
+        "src": "../../img/workflow-icon.png",
+        "text": "Nullam quis risus eget urna mollis ornare vel eu leo. Morbi leo risus, porta ac consectetur ac, vestibulum at eros."
+      },
+      {
+        "src": "../../img/workflow-icon.png",
+        "text": "Nullam quis risus eget urna mollis ornare vel eu leo. Morbi leo risus, porta ac consectetur ac, vestibulum at eros."
+      },
+      {
+        "src": "../../img/workflow-icon.png",
+        "text": "Nullam quis risus eget urna mollis ornare vel eu leo. Morbi leo risus, porta ac consectetur ac, vestibulum at eros."
+      },
+      {
+        "src": "../../img/workflow-icon.png",
+        "text": "Nullam quis risus eget urna mollis ornare vel eu leo. Morbi leo risus, porta ac consectetur ac, vestibulum at eros."
+      }
+    ],
+    "text": "GET EARLY ACCESS",
+    "link": "#"
+  }
+}

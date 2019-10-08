@@ -1,0 +1,10 @@
+.h2 {
+  font-size: 56px;
+  line-height: 64px;
+  color: $black-02;
+
+  @media #{$breakpoint-md-down} {
+    font-size: 36px;
+    line-height: 34px;
+  }
+}

@@ -1,0 +1,18 @@
+{% block body %}
+  <div class="wrapper">
+    {% include '@intro-with-tags' %}
+    {% include '@spacer' with {"space": 150} %}
+    {% include '@are-you' with {"headline": areYouHeadline, "src":areYouSrc, "items": areYouItems, "list":areYouList, "text":areYouText, "link":areYouLink } %}
+    {% include '@spacer' with {"space": 130} %}
+    {% include '@workflow' with {"headline": workflowHeadline, "sublineText":workflowSublineText, "item1": workflowItem1, "item2":workflowItem2, "item3":workflowItem3, "item4":workflowItem4, "button":workflowButton } %}
+    {% include '@spacer' with {"space": 100} %}
+    {% include '@list-stories' with {"headline": storiesHeadline, "sublineText":storiesSublineText.text, "items": storiesItems } %}
+    {% include '@spacer' with {"space": 80} %}
+    {% include '@cta' with {"headline": ctaHeadline, "sublineText":ctaSublineText, "text": ctaText, "link":ctaLink, "btnTransparent":ctaBtnTransparent } %}
+    {% include '@spacer' with {"space": 150} %}
+    {% include '@users-about-us' with {"headline": usersAboutHeadline, "sublineText":usersAboutSublineText, "items": usersAboutItems } %}
+    {% include '@spacer' with {"space": 150} %}
+    {% include '@footer' with { "title":footerTitle, "subtitle":footerSubtitle, "inputText":footerInputText, "inputLink":footerInputLink, "inputPlaceholderText":footerInputPlaceholderText,"checkboxText":footerCheckboxText } %}
+    {% include '@copyright' with { "items": itemsCopyright } %}
+  </div>
+{% endblock %}

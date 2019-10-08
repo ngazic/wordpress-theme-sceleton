@@ -1,0 +1,289 @@
+{
+  "status": "ready",
+  "notes": "This is notes form first template page",
+  "context": {
+    "items": [
+      {
+        "text": "are you?"
+      },
+      {
+        "text": "workflow"
+      },
+      {
+        "text": "functions"
+      },
+      {
+        "text": "faq"
+      },
+      {
+        "text": "contact"
+      },
+      {
+        "text": "blog"
+      }
+    ],
+    "buttonText": "GET EARLY ACCESS",
+    "slides": [
+      {
+        "items": [
+          {
+            "text": "20.10.2018"
+          },
+          {
+            "text": "Urban Pfeifer"
+          },
+          {
+            "text": "TECHNOLOGY"
+          }
+        ],
+        "title": "Importance of automated testing",
+        "btnText": "READ MORE",
+        "btnUrl": "##",
+        "estimate": "5 min read"
+      },
+      {
+        "items": [
+          {
+            "text": "20.10.2018"
+          },
+          {
+            "text": "Urban Pfeifer1"
+          },
+          {
+            "text": "TECHNOLOGY"
+          }
+        ],
+        "title": "Importance of automated testing1",
+        "btnText": "READ MORE",
+        "btnUrl": "##",
+        "estimate": "10 min read"
+      },
+      {
+        "items": [
+          {
+            "text": "20.10.2018"
+          },
+          {
+            "text": "Urban Pfeifer2"
+          },
+          {
+            "text": "TECHNOLOGY2"
+          }
+        ],
+        "title": "Importance of automated testing2",
+        "btnText": "READ MORE",
+        "btnUrl": "##",
+        "estimate": "15 min read"
+      }
+    ],
+    "areYouHeadline": {
+      "text": "Are you?"
+    },
+    "areYouSrc": "../../img/are-you-pic.png",
+    "areYouItems": [
+      {
+        "text": "DEVELOPER",
+        "extraClass": ""
+      },
+      {
+        "text": "CHIEF TECH OFFICER",
+        "extraClass": "tag-list-item--primary"
+      },
+      {
+        "text": "THIRD OPTION",
+        "extraClass": ""
+      }
+    ],
+    "areYouList": [
+      {
+        "src": "../../img/workflow-icon.png",
+        "text": "Nullam quis risus eget urna mollis ornare vel eu leo. Morbi leo risus, porta ac consectetur ac, vestibulum at eros."
+      },
+      {
+        "src": "../../img/workflow-icon.png",
+        "text": "Nullam quis risus eget urna mollis ornare vel eu leo. Morbi leo risus, porta ac consectetur ac, vestibulum at eros."
+      },
+      {
+        "src": "../../img/workflow-icon.png",
+        "text": "Nullam quis risus eget urna mollis ornare vel eu leo. Morbi leo risus, porta ac consectetur ac, vestibulum at eros."
+      },
+      {
+        "src": "../../img/workflow-icon.png",
+        "text": "Nullam quis risus eget urna mollis ornare vel eu leo. Morbi leo risus, porta ac consectetur ac, vestibulum at eros."
+      }
+    ],
+    "areYouText": "GET EARLY ACCESS",
+    "areYouLink": "#",
+    "workflowHeadline": {
+      "text": "Workflow"
+    },
+    "workflowSublineText": {
+      "text": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia, Nullam id dolor id nibh ultricies vehicula ut id elit."
+    },
+    "workflowItem1": {
+      "id": "1",
+      "src": "../../img/workflow-icon.png",
+      "title": "1. title",
+      "text": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia, Nullam id dolor id nibh ultricies vehicula ut id elit."
+    },
+    "workflowItem2": {
+      "id": "2",
+      "src": "../../img/workflow-icon.png",
+      "title": "2. title",
+      "text": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia, Nullam id dolor id nibh ultricies vehicula ut id elit."
+    },
+    "workflowItem3": {
+      "id": "3",
+      "src": "../../img/workflow-icon.png",
+      "title": "3. title",
+      "text": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia, Nullam id dolor id nibh ultricies vehicula ut id elit."
+    },
+    "workflowItem4": {
+      "id": "4",
+      "src": "../../img/workflow-icon.png",
+      "title": "4. title",
+      "text": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia, Nullam id dolor id nibh ultricies vehicula ut id elit."
+    },
+    "workflowButton": {
+      "text": "GET EARLY ACCESS",
+      "link": "#"
+    },
+    "storiesHeadline": {
+      "text": "Under the hood"
+    },
+    "storiesSublineText": {
+      "text": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia, Nullam id dolor id nibh ultricies vehicula ut id elit."
+    },
+    "storiesItems": [
+      {
+        "text": "stuff",
+        "srcL": "../../img/1440x10_12.png",
+        "srcM": "../../img/1024x10_12.png",
+        "srcS": "../../img/768x10_12.png",
+        "srcXS": "../../img/360x10_12.png",
+        "subtitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut ero labore et dolore."
+      },
+      {
+        "text": "stuff",
+        "srcL": "../../img/1440x10_12.png",
+        "srcM": "../../img/1024x10_12.png",
+        "srcS": "../../img/768x10_12.png",
+        "srcXS": "../../img/360x10_12.png",
+        "subtitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut ero labore et dolore."
+      },
+      {
+        "text": "stuff",
+        "srcL": "../../img/1440x10_12.png",
+        "srcM": "../../img/1024x10_12.png",
+        "srcS": "../../img/768x10_12.png",
+        "srcXS": "../../img/360x10_12.png",
+        "subtitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut ero labore et dolore."
+      },
+      {
+        "text": "stuff",
+        "srcL": "../../img/1440x10_12.png",
+        "srcM": "../../img/1024x10_12.png",
+        "srcS": "../../img/768x10_12.png",
+        "srcXS": "../../img/360x10_12.png",
+        "subtitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut ero labore et dolore."
+      },
+      {
+        "text": "stuff",
+        "srcL": "../../img/1440x10_12.png",
+        "srcM": "../../img/1024x10_12.png",
+        "srcS": "../../img/768x10_12.png",
+        "srcXS": "../../img/360x10_12.png",
+        "subtitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut ero labore et dolore."
+      },
+      {
+        "text": "stuff",
+        "srcL": "../../img/1440x10_12.png",
+        "srcM": "../../img/1024x10_12.png",
+        "srcS": "../../img/768x10_12.png",
+        "srcXS": "../../img/360x10_12.png",
+        "subtitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut ero labore et dolore."
+      },
+      {
+        "text": "stuff",
+        "srcL": "../../img/1440x10_12.png",
+        "srcM": "../../img/1024x10_12.png",
+        "srcS": "../../img/768x10_12.png",
+        "srcXS": "../../img/360x10_12.png",
+        "subtitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut ero labore et dolore."
+      },
+      {
+        "text": "stuff",
+        "srcL": "../../img/1440x10_12.png",
+        "srcM": "../../img/1024x10_12.png",
+        "srcS": "../../img/768x10_12.png",
+        "srcXS": "../../img/360x10_12.png",
+        "subtitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut ero labore et dolore."
+      }
+    ],
+    "ctaHeadline": {
+      "text": "Everything you need to know"
+    },
+    "ctaSublineText": {
+      "text": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia, Nullam id dolor id nibh ultricies vehicula ut id elit."
+    },
+    "ctaText": "FAQ",
+    "ctaLink": "#",
+    "ctaBtnTransparent": {
+      "text": "CONTACT US",
+      "link": "#"
+    },
+    "usersAboutHeadline": {
+      "text": "Workflow"
+    },
+    "usersAboutSublineText": {
+      "text": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia, Nullam id dolor id nibh ultricies vehicula ut id elit."
+    },
+    "usersAboutItems": [
+      {
+        "title": "name surname",
+        "tag": "co-founder & cto",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis risus eget urna mollis ornare vel eu leo.",
+        "src": "../../img/item-logo.png",
+        "alt": ""
+      },
+      {
+        "title": "name surname",
+        "tag": "co-founder & cto",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis risus eget urna mollis ornare vel eu leo.",
+        "src": "../../img/item-logo.png",
+        "alt": ""
+      },
+      {
+        "title": "name surname",
+        "tag": "co-founder & cto",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis risus eget urna mollis ornare vel eu leo.",
+        "src": "../../img/item-logo.png",
+        "alt": ""
+      },
+      {
+        "title": "name surname",
+        "tag": "co-founder & cto",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis risus eget urna mollis ornare vel eu leo.",
+        "src": "../../img/item-logo.png",
+        "alt": ""
+      }
+    ],
+    "footerTitle": "Get early access",
+    "footerSubtitle": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia, Nullam id dolor id nibh ultricies vehicula ut id elit.",
+    "footerInputText": "get early access",
+    "footerInputLink": "#",
+    "footerInputPlaceholderText": "exp: john.doe@mail.com",
+    "footerCheckboxText": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia, Nullam id dolor id nibh ultricies vehicula ut id elit.",
+    "itemsCopyright": [
+      {
+        "text": "Vse pravice pridržane. PM, poslovni mediji d.o.o. 2018"
+      },
+      {
+        "text": "Cookies"
+      },
+      {
+        "text": "Terms and agreement"
+      }
+    ]
+  }
+}

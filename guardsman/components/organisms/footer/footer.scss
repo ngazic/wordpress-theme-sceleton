@@ -1,0 +1,61 @@
+.footer {
+  position: relative;
+  padding: 203px 0 160px;
+  background-image: url("../img/footerImage.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  overflow: hidden;
+
+  @media #{$breakpoint-md-down} {
+    text-align: center;
+  }
+
+  .text {
+    color: $white;
+    padding: 0 51px;
+    margin-bottom: 40px;
+    position: relative;
+    z-index: 11;
+
+    @media #{$breakpoint-md-down} {
+      margin-left: 16px;
+      margin-right: 16px;
+      padding-left: 0;
+      padding-right: 0;
+    }
+  }
+
+  .h2 {
+    color: $white;
+    margin: 0 67px 24px;
+    position: relative;
+    z-index: 11;
+
+    @media #{$breakpoint-md-only} {
+      margin: 0 48px 24px;
+    }
+
+    @media #{$breakpoint-md-down} {
+      margin-left: 0;
+      margin-right: 0;
+      text-align: center;
+    }
+  }
+
+  .input-wrap {
+    position: relative;
+    z-index: 11;
+    margin-bottom: 30px;
+  }
+
+  .checkbox {
+    position: relative;
+    z-index: 11;
+
+    @media #{$breakpoint-md-down} {
+      text-align: left;
+      margin-left: -5px;
+    }
+  }
+}

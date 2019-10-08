@@ -1,0 +1,16 @@
+.accordion {
+  @include flex-basis(100%);
+
+  &.push,
+  &.pull {
+    @media #{$breakpoint-sm-down} {
+      margin: 0 15px;
+    }
+  }
+
+  li {
+    display: block;
+    width: 100%;
+    font-size: 0;
+  }
+}

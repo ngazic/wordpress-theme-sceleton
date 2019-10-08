@@ -1,0 +1,12 @@
+{
+  "status": "ready",
+  "notes": "This is footer",
+  "context": {
+    "title": "Get early access",
+    "subtitle": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia, Nullam id dolor id nibh ultricies vehicula ut id elit.",
+    "inputText": "get early access",
+    "inputLink": "#",
+    "inputPlaceholderText": "exp: john.doe@mail.com",
+    "checkboxText": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia, Nullam id dolor id nibh ultricies vehicula ut id elit."
+  }
+}

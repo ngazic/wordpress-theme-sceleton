@@ -1,0 +1,21 @@
+.h1 {
+  &--underline {
+    position: relative;
+    display: inline-block;
+
+    &::after {
+      content: "";
+      position: absolute;
+      border-bottom: 4px solid $primary;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      z-index:-1;
+
+      @media #{$breakpoint-md-down} {
+        border-bottom: 3px solid $primary;
+        bottom: 0px;
+      }
+    }
+  }
+}

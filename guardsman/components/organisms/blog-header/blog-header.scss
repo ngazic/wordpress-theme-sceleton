@@ -1,0 +1,23 @@
+.blog-header {
+  .blog-title {
+    position: relative;
+    margin-top: -200px;
+
+    @media #{$breakpoint-sm-down} {
+      margin: -200px 15px 0;
+      width: calc(100% - 30px);
+    }
+
+    @media #{$breakpoint-xs-only} {
+      padding: 50px 50px 0;
+      text-align: center;
+    }
+
+    .h1 {
+      @media #{$breakpoint-xs-only} {
+        font-size: 50px;
+        line-height: 55px;
+      }
+    }
+  }
+}

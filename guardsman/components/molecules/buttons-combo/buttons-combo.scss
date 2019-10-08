@@ -1,0 +1,26 @@
+.buttons-combo {
+  @media #{$breakpoint-sm-down} {
+    max-width: 350px;
+    margin: 0 auto;
+  }
+
+  .button {
+    @media #{$breakpoint-sm-down} {
+      display: block;
+    }
+
+    &--transparent {
+      @media #{$breakpoint-sm-down} {
+        margin-top: 10px;
+      }
+    }
+  }
+
+  .button--transparent {
+    margin-left: 32px;
+
+    @media #{$breakpoint-sm-down} {
+      margin-left: 0;
+    }
+  }
+}

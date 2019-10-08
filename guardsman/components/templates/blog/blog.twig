@@ -1,0 +1,17 @@
+{% block body %}
+  <div class="wrapper">
+    {% include '@stage' with { "text":stageText, "items":headerItems, "buttonText":headerButtonText} %}
+    {% include '@spacer' with { "space": 70 } %}
+    {% include '@tag-with-select' with { "items": tagWithBorderItems } %}
+    {% include '@teaser-img-text' with { "items": teaserImgItems, "srcL":teaserImgSrcL, "srcM": teaserImgSrcM, "srcS":teaserImgSrcS, "srcXS":teaserImgSrcXS, "title":teaserImgTitle, "subtitle":teaserImgSubtitle, "buttontitle":teaserImgButtonTitle, "buttonurl":teaserImgButtonUrl} %}
+    {% include '@spacer' with { "space": 80 } %}
+    {% include '@post-list' with { "items": postsItems } %}
+    {% include '@spacer' with { "space": 40 } %}
+    <div class="row justify-content-center">
+      {% include '@button-primary' with { "text": postsLoadMoreText, "link": postsLoadMoreUrl } %}
+    </div>
+    {% include '@spacer' with { "space": 164 } %}
+    {% include '@footer' with { "title":footerTitle, "subtitle":footerSubtitle, "inputText":footerInputText, "inputLink":footerInputLink, "inputPlaceholderText":footerInputPlaceholderText,"checkboxText":footerCheckboxText } %}
+    {% include '@copyright' with { "items": itemsCopyright } %}
+  </div>
+{% endblock %}

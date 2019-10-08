@@ -1,0 +1,47 @@
+.cta {
+  background-image: url("../../img/cta-bg.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  top: 0;
+  padding-top: 150px;
+  padding-bottom: 162px;
+  position: relative;
+  overflow: hidden;
+
+  .content {
+    text-align: center;
+    margin-left: 41.5px;
+    margin-right: 41.5px;
+    position: relative;
+    z-index: 11;
+
+    @media #{$breakpoint-sm-down} {
+      margin-left: 0;
+      margin-right: 0;
+    }
+
+    .h2 {
+      margin-left: 40px;
+      margin-right: 50px;
+
+      @media #{$breakpoint-md-down} {
+        font-size: 40px;
+        line-height: 45px;
+        margin-left: 0;
+        margin-right: 0;
+      }
+    }
+
+    .text {
+      margin-top: 35px;
+    }
+
+    .buttons-combo {
+      margin-top: 35px;
+    }
+  }
+}

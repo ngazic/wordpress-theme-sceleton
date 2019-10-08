@@ -1,0 +1,9 @@
+<section class="posts-list">
+  <div class="row">
+    {% for item in items %}
+      <div class="col-md-4 col-xs-12">
+        {% include '@article-post' with {"srcL": item.srcL, "srcM":item.srcMm, "srcS": item.srcS, "headline":item.headline, "content":item.content ,"items":item.tagsItems,"text":item.text,"paragraph": item.paragraph, "linkText":item.linkText, "url":item.url} %}
+      </div>
+    {% endfor %}
+  </div>
+</section>

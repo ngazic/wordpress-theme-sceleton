@@ -1,0 +1,29 @@
+.input-wrap {
+  border-radius: 30px;
+  border-color: $white;
+  border-width: 1px;
+  border-style: solid;
+  padding: 10px 11px 10px 30px;
+
+  @media #{$breakpoint-md-down} {
+    padding: 10px 11px 10px 15px;
+  }
+
+  .emailInput {
+    width: 100%;
+    height: 26px;
+    border: none;
+    font-size: 18px;
+    line-height: 26px;
+    color: $white;
+    background: transparent;
+
+    &::placeholder {
+      color: $white;
+    }
+  }
+
+  .col-xs-6 {
+    padding: 0;
+  }
+}

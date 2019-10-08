@@ -1,0 +1,28 @@
+{
+  "status": "ready",
+  "notes": "This is notes form first template page",
+  "context": {
+    "text": "Tech /Code /Dev",
+    "items": [
+      {
+        "text": "are you?"
+      },
+      {
+        "text": "workflow"
+      },
+      {
+        "text": "functions"
+      },
+      {
+        "text": "faq"
+      },
+      {
+        "text": "contact"
+      },
+      {
+        "text": "blog"
+      }
+    ],
+    "buttonText": "GET EARLY ACCESS"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "status": "ready",
+  "notes": "This is accordion item ",
+  "context": {
+    "id": "1",
+    "src": "../../img/workflow-icon.png",
+    "title":"1. BILD",
+    "text": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia, Nullam id dolor id nibh ultricies vehicula ut id elit."
+  }
+}

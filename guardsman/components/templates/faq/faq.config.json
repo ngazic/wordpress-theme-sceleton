@@ -1,0 +1,71 @@
+{
+  "status": "ready",
+  "notes": "This is notes form first template page",
+  "context": {
+    "headerItems": [
+      {
+        "text": "are you?"
+      },
+      {
+        "text": "workflow"
+      },
+      {
+        "text": "functions"
+      },
+      {
+        "text": "faq"
+      },
+      {
+        "text": "contact"
+      },
+      {
+        "text": "blog"
+      }
+    ],
+    "headerButtonText": "This is button",
+    "stageText": "FAQ",
+    "accordionItems": [
+      {
+        "headline": "How do you use this application?",
+        "content": "Cras mattis consectetur purus sit amet fermentum. Donec id elit non mi porta gravida at eget metus. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+      },
+      {
+        "headline": "How do you use this application?",
+        "content": "Cras mattis consectetur purus sit amet fermentum. Donec id elit non mi porta gravida at eget metus. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+      },
+      {
+        "headline": "How do you use this application?",
+        "content": "Cras mattis consectetur purus sit amet fermentum. Donec id elit non mi porta gravida at eget metus. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+      },
+      {
+        "headline": "How do you use this application?",
+        "content": "Cras mattis consectetur purus sit amet fermentum. Donec id elit non mi porta gravida at eget metus. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+      },
+      {
+        "headline": "How do you use this application?",
+        "content": "Cras mattis consectetur purus sit amet fermentum. Donec id elit non mi porta gravida at eget metus. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+      },
+      {
+        "headline": "How do you use this application?",
+        "content": "Cras mattis consectetur purus sit amet fermentum. Donec id elit non mi porta gravida at eget metus. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+      }
+    ],
+    "footerTitle": "Get early access",
+    "footerSubtitle": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia, Nullam id dolor id nibh ultricies vehicula ut id elit.",
+    "footerInputText": "get early access",
+    "footerInputLink": "#",
+    "footerInputPlaceholderText": "exp: john.doe@mail.com",
+    "footerCheckboxText": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia, Nullam id dolor id nibh ultricies vehicula ut id elit.",
+    "itemsCopyright": [
+      {
+        "text": "Vse pravice pridržane. PM, poslovni mediji d.o.o. 2018"
+      },
+      {
+        "text": "Cookies"
+      },
+      {
+        "text": "Terms and agreement"
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "status": "ready",
+  "notes": "Content for intro slider",
+  "context": {
+    "items": [
+      {
+        "text": "20.10.2018"
+      },
+      {
+        "text": "Urban Pfeifer"
+      },
+      {
+        "text": "TECHNOLOGY"
+      }
+    ],
+    "title": "Importance of automated testing",
+    "btnText": "READ MORE",
+    "btnUrl": "##",
+    "estimate": "5 min read"
+  }
+}

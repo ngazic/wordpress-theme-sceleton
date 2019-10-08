@@ -1,0 +1,6 @@
+<div class="list-icon-text">
+  {% for item in list %}
+    {% set text = item.text %}
+    {% include '@list-icon-with-text' with {"text": text , "src": item.src } %}
+  {% endfor %}
+</div>

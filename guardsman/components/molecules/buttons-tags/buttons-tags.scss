@@ -1,0 +1,27 @@
+.buttons-tags {
+  display: inline-block;
+  border-radius: 25px;
+  border: 1px solid #cccccc;
+  background-color: #fff;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  text-transform: uppercase;
+  color: $border-color;
+  cursor: pointer;
+
+  .tag-list-item {
+    padding: 17px 25px;
+
+    &--primary {
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.16);
+      border-radius: 25px;
+      background-color: $primary;
+      color: $white;
+    }
+
+    @media #{$breakpoint-sm-down} {
+      display: block;
+    }
+  }
+}

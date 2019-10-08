@@ -1,0 +1,10 @@
+{
+  "status": "ready",
+  "notes": "Additional notes for this picture.",
+  "context": {
+    "srcL": "../../img/1440x10_12.png",
+    "srcM": "../../img/1024x10_12.png",
+    "srcS": "../../img/768x10_12.png",
+    "srcXS": "../../img/360x10_12.png"
+  }
+}

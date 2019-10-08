@@ -1,0 +1,27 @@
+{
+  "status": "ready",
+  "notes": "Background blog",
+  "context": {
+    "items": [
+      {
+        "text": "are you?"
+      },
+      {
+        "text": "workflow"
+      },
+      {
+        "text": "functions"
+      },
+      {
+        "text": "faq"
+      },
+      {
+        "text": "contact"
+      },
+      {
+        "text": "blog"
+      }
+    ],
+    "buttonText": "This is button"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "status": "ready",
+  "notes": "Button Primary",
+  "context": {
+    "text": "get early access",
+    "link": "#",
+    "placeholderText": "exp: john.doe@mail.com"
+  }
+}

@@ -1,0 +1,21 @@
+.story {
+  .h4 {
+    margin-bottom: 28px;
+    margin-top: 28px;
+
+    &--with-underline {
+
+      &::after {
+        z-index: 1;
+        bottom: 0;
+      }
+    }
+  }
+
+  .list-text {
+
+    @media #{$breakpoint-md-down} {
+      padding: 0 16px;
+    }
+  }
+}

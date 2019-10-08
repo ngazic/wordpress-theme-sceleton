@@ -1,0 +1,22 @@
+<div class="under-hood">
+  <div class="row">
+  <div class="mask-top"></div>
+  <div class="mask-bg"></div>
+    <div class="col-md-offset-3 col-md-6 col-xs-12 col-xs-offset-0">
+        <div class="content">
+          {% include '@h2-with-underline' with { "text": headline.text }%}
+          {% include '@paragraph' with { "text": sublineText.text }%}
+        </div>
+    </div>
+  </div>
+</div>
+
+<div class="list-stories">
+  <div class="row rounded-wrap">
+    {% for item in items %}
+        <div class="col-md-3">
+          {% include '@story' with {"text": item.text , "subtitle": item.subtitle, "srcL": item.srcL , "srcM": item.srcM , "srcS": item.srcS , "srcXS": item.srcXS , } %}
+        </div>
+    {% endfor %}
+  </div>
+</div>

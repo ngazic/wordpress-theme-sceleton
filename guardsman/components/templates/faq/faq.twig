@@ -1,0 +1,10 @@
+{% block body %}
+  <div class="wrapper">
+    {% include '@stage' with { "text":stageText, "items":headerItems, "buttonText":headerButtonText} %}
+    {% include '@spacer' with { "space": 26 } %}
+    {% include '@accordion' with { "items": accordionItems } %}
+    {% include '@spacer' with { "space": 160 } %}
+    {% include '@footer' with { "title":footer.Title, "subtitle":footer.Subtitle, "inputText":footer.InputText, "inputLink":footer.InputLink, "inputPlaceholderText":footer.Input.PlaceholderText,"checkboxText":footer.CheckboxText } %}
+    {% include '@copyright' with { "items": itemsCopyright } %}
+  </div>
+{% endblock %}

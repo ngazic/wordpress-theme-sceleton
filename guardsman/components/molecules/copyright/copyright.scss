@@ -1,0 +1,21 @@
+.copyright {
+  background-color: $background-grey;
+
+  @media #{$breakpoint-md-down} {
+    text-align: center;
+  }
+  .tag-list {
+    padding-bottom: 23px;
+    padding-top: 23px;
+  }
+
+  .share-icons {
+    padding-bottom: 23px;
+    padding-top: 23px;
+
+    @media #{$breakpoint-md-down} {
+      @include flex-basis(100%);
+      padding-top: 0;
+    }
+  }
+}

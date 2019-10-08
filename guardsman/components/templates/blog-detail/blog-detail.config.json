@@ -1,0 +1,151 @@
+{
+  "status": "ready",
+  "notes": "Template 4",
+  "context": {
+    "itemsHeader": [
+      {
+        "text": "are you?"
+      },
+      {
+        "text": "workflow"
+      },
+      {
+        "text": "functions"
+      },
+      {
+        "text": "faq"
+      },
+      {
+        "text": "contact"
+      },
+      {
+        "text": "blog"
+      }
+    ],
+    "buttonText": "This is button",
+    "itemsBlog": [
+      {
+        "text": "20.10.2018"
+      },
+      {
+        "text": "Urban Pfeifer"
+      },
+      {
+        "text": "TECHNOLOGY"
+      }
+    ],
+    "title": "H1-Importance of automated testing",
+    "paragraph": {
+      "textParagraph": "Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nulla vitae elit libero, a pharetra augue.",
+      "textParagraphLink": "Donec sed odio dui. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vestibulum id ligula porta felis euismod semper. Cum <a class='text__link' href=''>sociis</a> natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Sed posuere consectetur est at lobortis.",
+      "textBlogPrimary": "Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "textParagraphUnderline": "Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent <a class='text__link text__link--underline' href=''>commodo</a> cursus magna, vel scelerisque nisl consectetur et. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nulla vitae elit libero, a pharetra augue.",
+      "textParagraph2": "Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nulla vitae elit libero, a pharetra augue.",
+      "linkPagragraph": "#",
+      "textParagraph3": "Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nulla vitae elit libero, a pharetra augue.",
+      "textParagraph4": "Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nulla vitae elit libero, a pharetra augue."
+    },
+    "textBlogPrimaryBg": "Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum.",
+    "quoteText1": "Vestibulum id ligula porta felis euismod semper. Aenean lacinia bibendum nulla sed consectetur. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.",
+    "quoteText2": " Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec sed odio dui.",
+    "quoteAuthor": "John Doe, CEO",
+    "srcL": "../../img/1440x3_2.png",
+    "srcM": "../../img/1024x3_2.png",
+    "srcS": "../../img/768x3_2.png",
+    "srcXS": "../../img/360x3_2.png",
+    "blogPicture": {
+      "srcL": "../../img/1440x3_2.png",
+      "srcM": "../../img/1024x3_2.png",
+      "srcS": "../../img/768x3_2.png",
+      "srcXS": "../../img/360x3_2.png",
+      "caption": "Lorem ipsum dolor sit amet"
+    },
+    "headline": {
+      "textBlogHeadline": "H2 - Importance of automated testing",
+      "h3Headline": "H3 - Importance of automated testing"
+    },
+    "titleArticle": {
+      "titleUnderline": "Read also"
+    },
+    "contentArticle1": {
+      "srcL": "../../img/1440x3_2.png",
+      "srcM": "../../img/1024x3_2.png",
+      "srcS": "../../img/768x3_2.png",
+      "srcXS": "../../img/360x3_2.png",
+      "items": [
+        {
+          "text": "20.10.2018"
+        },
+        {
+          "text": "Urban Pfeifer"
+        },
+        {
+          "text": "TECHNOLOGY"
+        }
+      ],
+      "headline": "Importance of automated testing",
+      "paragraph": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut ero labore et dolore.",
+      "linkText": " read me ",
+      "url": " # "
+    },
+    "contentArticle2": {
+      "srcL": "../../img/1440x3_2.png",
+      "srcM": "../../img/1024x3_2.png",
+      "srcS": "../../img/768x3_2.png",
+      "srcXS": "../../img/360x3_2.png",
+      "items": [
+        {
+          "text": "20.10.2018"
+        },
+        {
+          "text": "Nihad Gazic"
+        },
+        {
+          "text": "TECHNOLOGY"
+        }
+      ],
+      "headline": "Importance of automated testing",
+      "paragraph": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut ero labore et dolore.",
+      "linkText": " read me ",
+      "url": " # "
+    },
+    "contentArticle3": {
+      "srcL": "../../img/1440x3_2.png",
+      "srcM": "../../img/1024x3_2.png",
+      "srcS": "../../img/768x3_2.png",
+      "srcXS": "../../img/360x3_2.png",
+      "items": [
+        {
+          "text": "20.10.2018"
+        },
+        {
+          "text": "Ajdin Šeki"
+        },
+        {
+          "text": "TECHNOLOGY"
+        }
+      ],
+      "headline": "Importance of automated testing",
+      "paragraph": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut ero labore et dolore.",
+      "linkText": " read me ",
+      "url": " # "
+    },
+    "footerTitle": "Get early access",
+    "footerSubtitle": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia, Nullam id dolor id nibh ultricies vehicula ut id elit.",
+    "footerInputText": "get early access",
+    "footerInputLink": "#",
+    "footerInputPlaceholderText": "exp: john.doe@mail.com",
+    "footerCheckboxText": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia, Nullam id dolor id nibh ultricies vehicula ut id elit.",
+    "itemsCopyright": [
+      {
+        "text": "Vse pravice pridržane. PM, poslovni mediji d.o.o. 2018"
+      },
+      {
+        "text": "Cookies"
+      },
+      {
+        "text": "Terms and agreement"
+      }
+    ]
+  }
+}

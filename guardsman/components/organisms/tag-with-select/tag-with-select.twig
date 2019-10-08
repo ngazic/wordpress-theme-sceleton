@@ -1,0 +1,12 @@
+<div class="tag-with-select">
+  <div class="row">
+    <div class="col-md-9 col-xs-7">
+      {% include '@tag-with-border' %}
+    </div>
+    <div class="col-md-3 col-xs-5 justify-content-end">
+      <div class="btn-wrapper">
+        {% include '@selectbox'  with {"items": selectItems } %}
+      </div>
+    </div>
+  </div>
+</div>

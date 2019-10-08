@@ -1,0 +1,12 @@
+{
+  "status": "ready",
+  "notes": "Teaser img text.",
+  "context": {
+    "srcL": "../../img/1440x10_12.png",
+    "srcM": "../../img/1024x10_12.png",
+    "srcS": "../../img/768x10_12.png",
+    "srcXS": "../../img/360x10_12.png",
+    "text": "stuff",
+    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut ero labore et dolore."
+  }
+}

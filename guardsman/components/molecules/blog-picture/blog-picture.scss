@@ -1,0 +1,16 @@
+.blog-picture-wrap{
+  @media #{$breakpoint-sm-down} {
+    padding: 0 15px;
+  }
+
+ .blog-picture {
+    border-bottom: 1px solid $border-grey;
+    picture {
+      margin-bottom: 16px;
+    }
+
+    .caption{
+      margin-bottom: 16px;
+    }
+  }
+}

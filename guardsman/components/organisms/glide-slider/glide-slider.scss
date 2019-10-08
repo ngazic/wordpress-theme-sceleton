@@ -1,0 +1,32 @@
+.glide {
+  position: relative;
+  max-height: 500px;
+
+  .glide__track {
+    max-height: 500px;
+  }
+
+  .arrow-left-slider,
+  .arrow-right-slider {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+
+  .arrow-left-slider {
+    left: 0;
+  }
+
+  .arrow-right-slider {
+    right: 0;
+  }
+
+  .bullet-wrapper {
+    position: absolute;
+    height: 10px;
+    bottom: 102px;
+    text-align: center;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+}
